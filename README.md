@@ -79,7 +79,7 @@ These are the general steps followed to set up the environment:
 
        ![image](https://github.com/user-attachments/assets/bad9f529-4930-4a91-8f14-59014439f93b)
 
-6.  **Write the Jenkins Pipeline Script**
+6.  **Write the Jenkins Pipeline Script:**
 
        Provided as jenkinsfile
 
